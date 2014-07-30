@@ -1,0 +1,9 @@
+de:
+  hello: "Hallo Welt"
+  user_list : "Listing Benutzer"
+  name: "Name"
+  email: "E-Mail-"
+  show: "Show"
+  edit: "Bearbeiten"
+  destroy: "zerstören"
+  new_user: "neuer Benutzer"

@@ -1,0 +1,12 @@
+# Sample localization file for English. Add more files in this directory for other locales.
+# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+
+en:
+  hello: "Hello world"
+  user_list : "Listing users"
+  name: "Name"
+  email: "Email"
+  show: "Show"
+  edit: "Edit"
+  destroy: "Destroy"
+  new_user: "New User"
